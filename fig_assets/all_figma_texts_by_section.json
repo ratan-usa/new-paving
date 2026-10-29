@@ -1,0 +1,5978 @@
+{
+  "top-bar": {
+    "name": "Top bar",
+    "texts": [
+      {
+        "id": "1:8",
+        "name": "Paving Contractors",
+        "text": "Paving Contractors",
+        "fontSize": 12,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:10",
+        "name": "Municipalities & DOTs",
+        "text": "Municipalities & DOTs",
+        "fontSize": 12,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:12",
+        "name": "Utilities",
+        "text": "Utilities",
+        "fontSize": 12,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:14",
+        "name": "Engineers",
+        "text": "Engineers",
+        "fontSize": 12,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:17",
+        "name": "Pro Desk Mon–Fri, 7 AM–5 PM ET",
+        "text": "Pro Desk Mon–Fri, 7 AM–5 PM ET",
+        "fontSize": 12,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:19",
+        "name": "Melville, NY · Stuart, FL · Toronto, ON",
+        "text": "Melville, NY · Stuart, FL · Toronto, ON",
+        "fontSize": 12,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "header": {
+    "name": "Header",
+    "texts": [
+      {
+        "id": "1:2018",
+        "name": "Products",
+        "text": "Products",
+        "fontSize": 15,
+        "fontName": "Inter Medium",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:2024",
+        "name": "Applications",
+        "text": "Applications",
+        "fontSize": 15,
+        "fontName": "Inter Medium",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:2030",
+        "name": "Resources",
+        "text": "Resources",
+        "fontSize": 15,
+        "fontName": "Inter Medium",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:2036",
+        "name": "About",
+        "text": "About",
+        "fontSize": 15,
+        "fontName": "Inter Medium",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:2042",
+        "name": "Contact",
+        "text": "Contact",
+        "fontSize": 15,
+        "fontName": "Inter Medium",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:2049",
+        "name": "(631) 458-1111",
+        "text": "(631) 458-1111",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:2051",
+        "name": "Request a Quote",
+        "text": "Request a Quote",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "section-1-Section___01_Hero__dark_": {
+    "id": "1:21",
+    "name": "Section - 01 Hero (dark)",
+    "fills": [
+      "#0a0a0a"
+    ],
+    "size": {
+      "w": 1920,
+      "h": 790
+    },
+    "texts": [
+      {
+        "id": "1:32",
+        "name": "Raise covers to grade. Skip the excavation.",
+        "text": "Raise covers\nto grade.\nSkip the\nexcavation.",
+        "fontSize": 56,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:34",
+        "name": "Manhole, catch basin and valve box risers that sit in the frame already in the road. Lift the cover, set the riser, pave the same day. ",
+        "text": "Manhole, catch basin and valve box risers that sit in the\nframe already in the road. Lift the cover, set the riser, pave\nthe same day.",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:36",
+        "name": "No digging, no new concrete, no rebuilt",
+        "text": "No digging, no new concrete, no rebuilt",
+        "fontSize": 18,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:37",
+        "name": "frames.",
+        "text": "frames.",
+        "fontSize": 18,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:40",
+        "name": "Get a Quote",
+        "text": "Get a Quote",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:48",
+        "name": "Download Catalog",
+        "text": "Download Catalog",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:54",
+        "name": "192 standard parts",
+        "text": "192 standard parts",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:59",
+        "name": "Custom sizes from field measurements",
+        "text": "Custom sizes from field measurements",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:64",
+        "name": "Spec sheets with every quote",
+        "text": "Spec sheets with every quote",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "section-2-Section___02_The_problem__warm_": {
+    "id": "1:65",
+    "name": "Section - 02 The problem (warm)",
+    "fills": [
+      "#f4f2ee"
+    ],
+    "size": {
+      "w": 1920,
+      "h": 812
+    },
+    "texts": [
+      {
+        "id": "1:71",
+        "name": "The problem on every overlay",
+        "text": "The problem on every overlay",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:73",
+        "name": "The road rises. The covers get left behind.",
+        "text": "The road rises.\nThe covers get\nleft behind.",
+        "fontSize": 48,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:75",
+        "name": "A new overlay lifts the road. Every manhole and catch basin frame stays where it was, so each cover ends up",
+        "text": "A new overlay lifts the road. Every manhole and catch basin\nframe stays where it was, so each cover ends up",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:77",
+        "name": "sitting in a dip",
+        "text": "sitting in a dip",
+        "fontSize": 18,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:78",
+        "name": "below the new surface.",
+        "text": "below the new surface.",
+        "fontSize": 18,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:79",
+        "name": "There are two ways to fix that.",
+        "text": "There are two ways to fix that.",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:84",
+        "name": "The old way",
+        "text": "The old way",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:88",
+        "name": "The old way",
+        "text": "The old way",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#8a8985"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:91",
+        "name": "Dig, rebuild, wait.",
+        "text": "Dig, rebuild, wait.",
+        "fontSize": 28,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:99",
+        "name": "Saw-cut the asphalt around the frame",
+        "text": "Saw-cut the asphalt around the frame",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:106",
+        "name": "Dig out the frame and rebuild it in concrete",
+        "text": "Dig out the frame and rebuild it in concrete",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:113",
+        "name": "Keep the lane closed while the concrete cures",
+        "text": "Keep the lane closed while the concrete cures",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:115",
+        "name": "A crew, concrete and a closed lane for every frame.",
+        "text": "A crew, concrete and a closed lane for every\nframe.",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:119",
+        "name": "With a riser",
+        "text": "With a riser",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:122",
+        "name": "Lift, drop in, pave.",
+        "text": "Lift, drop in, pave.",
+        "fontSize": 28,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:130",
+        "name": "Lift the cover off the existing frame",
+        "text": "Lift the cover off the existing frame",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:137",
+        "name": "Drop the riser onto the frame seat",
+        "text": "Drop the riser onto the frame seat",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:144",
+        "name": "Put the cover back and pave straight over",
+        "text": "Put the cover back and pave straight over",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:147",
+        "name": "No excavation. No concrete. No waiting.",
+        "text": "No excavation. No concrete. No waiting.",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "section-3-Section___03_Why_crews_choose_us__white____trust": {
+    "id": "1:148",
+    "name": "Section - 03 Why crews choose us (white) — trust",
+    "fills": [
+      "#ffffff"
+    ],
+    "size": {
+      "w": 1920,
+      "h": 1115
+    },
+    "texts": [
+      {
+        "id": "1:154",
+        "name": "Why paving crews choose us",
+        "text": "Why paving crews choose us",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:156",
+        "name": "Risers that fit the first time.",
+        "text": "Risers that fit\nthe first time.",
+        "fontSize": 64,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:158",
+        "name": "A riser that doesn't seat stops the paver and costs you a day. That's why we make our own, and why every order is checked against your frame before we start. ",
+        "text": "A riser that doesn't seat stops the paver and costs you a day.\nThat's why we make our own, and why every order is checked\nagainst your frame before we start.",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:160",
+        "name": "We're the manufacturer, not",
+        "text": "We're the manufacturer, not",
+        "fontSize": 18,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:161",
+        "name": "a middleman.",
+        "text": "a middleman.",
+        "fontSize": 18,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:167",
+        "name": "Our foundry",
+        "text": "Our foundry",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:169",
+        "name": "We pour the iron. We cut the steel. We ship the riser.",
+        "text": "We pour the iron.\nWe cut the steel.\nWe ship the riser.",
+        "fontSize": 44,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:171",
+        "name": "No broker between you and the people making your part, so sizes, dates and answers come straight from the shop floor.",
+        "text": "No broker between you and the people making your part,\nso sizes, dates and answers come straight from the shop\nfloor.",
+        "fontSize": 16,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#e5e5e5"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:174",
+        "name": "On the shelf",
+        "text": "On the shelf",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:177",
+        "name": "192",
+        "text": "192",
+        "fontSize": 112,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:179",
+        "name": "Standard risers, ready to ship.",
+        "text": "Standard risers, ready to ship.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:182",
+        "name": "Browse the range",
+        "text": "Browse the range",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:189",
+        "name": "Measured before it ships",
+        "text": "Measured before it ships",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:193",
+        "name": "The fit check",
+        "text": "The fit check",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:195",
+        "name": "Checked against your frame before we make it.",
+        "text": "Checked against\nyour frame\nbefore we make it.",
+        "fontSize": 28,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:197",
+        "name": "Send four measurements. An engineer confirms the riser will seat before we cast or cut it.",
+        "text": "Send four measurements. An engineer confirms\nthe riser will seat before we cast or cut it.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:213",
+        "name": "A",
+        "text": "A",
+        "fontSize": 8.962726593017578,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:215",
+        "name": "B",
+        "text": "B",
+        "fontSize": 8.962726593017578,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:217",
+        "name": "C",
+        "text": "C",
+        "fontSize": 8.962726593017578,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:219",
+        "name": "D",
+        "text": "D",
+        "fontSize": 8.962726593017578,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:222",
+        "name": "3/4\"–6\"",
+        "text": "3/4\"–6\"",
+        "fontSize": 32,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:223",
+        "name": "Rise range, in 1/4\" steps",
+        "text": "Rise range, in 1/4\" steps",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:225",
+        "name": "3 offices",
+        "text": "3 offices",
+        "fontSize": 32,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:227",
+        "name": "Melville NY, Stuart FL and Toronto ON",
+        "text": "Melville NY, Stuart FL and\nToronto ON",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:231",
+        "name": "[XX]",
+        "text": "[XX]",
+        "fontSize": 32,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:232",
+        "name": "years",
+        "text": "years",
+        "fontSize": 32,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:234",
+        "name": "Making road and utility castings",
+        "text": "Making road and utility\ncastings",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "section-4-Section___04_Who_we_serve__dark_": {
+    "id": "1:235",
+    "name": "Section - 04 Who we serve (dark)",
+    "fills": [
+      "#0a0a0a"
+    ],
+    "size": {
+      "w": 1920,
+      "h": 795
+    },
+    "texts": [
+      {
+        "id": "1:241",
+        "name": "Who we serve",
+        "text": "Who we serve",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:243",
+        "name": "Built for the people who pave.",
+        "text": "Built for the\npeople who pave.",
+        "fontSize": 48,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:245",
+        "name": "Contractors, cities, utilities and engineers all buy risers for different reasons. Here's what each of them gets from us.",
+        "text": "Contractors, cities, utilities and engineers all buy risers for\ndifferent reasons. Here's what each of them gets from us.",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:257",
+        "name": "Paving contractors",
+        "text": "Paving contractors",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:260",
+        "name": "You need",
+        "text": "You need",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:261",
+        "name": "Parts on site the morning you pave.",
+        "text": "Parts on site the morning you pave.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#e5e5e5"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:267",
+        "name": "Stock sizes ready to ship",
+        "text": "Stock sizes ready to ship",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:272",
+        "name": "Delivery to your yard or the job",
+        "text": "Delivery to your yard or the job",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:275",
+        "name": "For contractors",
+        "text": "For contractors",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:287",
+        "name": "Municipalities & DOTs",
+        "text": "Municipalities & DOTs",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:290",
+        "name": "You need",
+        "text": "You need",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:291",
+        "name": "Parts that match your standard details.",
+        "text": "Parts that match your standard\ndetails.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#e5e5e5"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:297",
+        "name": "Spec sheets and certificates for review",
+        "text": "Spec sheets and certificates for\nreview",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:302",
+        "name": "Pricing for annual contracts",
+        "text": "Pricing for annual contracts",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:304",
+        "name": "For agencies",
+        "text": "For agencies",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:316",
+        "name": "Utility companies",
+        "text": "Utility companies",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:319",
+        "name": "You need",
+        "text": "You need",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:320",
+        "name": "Valves you can still reach after paving.",
+        "text": "Valves you can still reach after\npaving.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#e5e5e5"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:326",
+        "name": "Valve box and gas risers",
+        "text": "Valve box and gas risers",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:331",
+        "name": "Made to your box size",
+        "text": "Made to your box size",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:334",
+        "name": "For utilities",
+        "text": "For utilities",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:346",
+        "name": "Engineers & specifiers",
+        "text": "Engineers & specifiers",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:349",
+        "name": "You need",
+        "text": "You need",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:350",
+        "name": "Data you can drop into a spec.",
+        "text": "Data you can drop into a spec.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#e5e5e5"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:356",
+        "name": "Drawings and CAD files, free",
+        "text": "Drawings and CAD files, free",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:361",
+        "name": "Help sizing from field data",
+        "text": "Help sizing from field data",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:364",
+        "name": "For engineers",
+        "text": "For engineers",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "section-5-Section___05_Riser_classification__warm_": {
+    "id": "1:368",
+    "name": "Section - 05 Riser classification (warm)",
+    "fills": [
+      "#f4f2ee"
+    ],
+    "size": {
+      "w": 1920,
+      "h": 2765
+    },
+    "texts": [
+      {
+        "id": "1:374",
+        "name": "Know your riser",
+        "text": "Know your riser",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:376",
+        "name": "What a riser does. Which one you need.",
+        "text": "What a riser does.\nWhich one you need.",
+        "fontSize": 48,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:378",
+        "name": "A riser sits on the seat of the frame that's already in the road and lifts the cover to the new surface. Choosing one takes three steps: the structure, the type of riser, then the size.",
+        "text": "A riser sits on the seat of the frame that's already in the road and\nlifts the cover to the new surface. Choosing one takes three\nsteps: the structure, the type of riser, then the size.",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:383",
+        "name": "Manhole riser",
+        "text": "Manhole riser",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:387",
+        "name": "Catch basin riser",
+        "text": "Catch basin riser",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:391",
+        "name": "1",
+        "text": "1",
+        "fontSize": 32,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:394",
+        "name": "Lift the cover",
+        "text": "Lift the cover",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:396",
+        "name": "After the new course is laid",
+        "text": "After the new course is laid",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:399",
+        "name": "2",
+        "text": "2",
+        "fontSize": 32,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:402",
+        "name": "Drop in the riser",
+        "text": "Drop in the riser",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:404",
+        "name": "It sits on the existing frame seat",
+        "text": "It sits on the existing frame seat",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:408",
+        "name": "3",
+        "text": "3",
+        "fontSize": 32,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:411",
+        "name": "Cover back at grade",
+        "text": "Cover back at grade",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:413",
+        "name": "Flush with the new surface",
+        "text": "Flush with the new surface",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:417",
+        "name": "01",
+        "text": "01",
+        "fontSize": 20,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:419",
+        "name": "Pick the structure",
+        "text": "Pick the structure",
+        "fontSize": 28,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:421",
+        "name": "What's in the road?",
+        "text": "What's in the road?",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:424",
+        "name": "Manhole, catch basin or valve box. This decides the shape of the riser.",
+        "text": "Manhole, catch basin or valve box. This decides the shape of the riser.",
+        "fontSize": 16,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:432",
+        "name": "Manhole",
+        "text": "Manhole",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:437",
+        "name": "Round rings for sewer, storm and utility manholes.",
+        "text": "Round rings for sewer, storm and utility manholes.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:441",
+        "name": "Round",
+        "text": "Round",
+        "fontSize": 12,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#3a3936"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:443",
+        "name": "22\"–36\" frames",
+        "text": "22\"–36\" frames",
+        "fontSize": 12,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#3a3936"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:450",
+        "name": "Catch basin",
+        "text": "Catch basin",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:455",
+        "name": "Frames for storm grates and curb inlets, made to your grate size.",
+        "text": "Frames for storm grates and curb inlets, made to your\ngrate size.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:458",
+        "name": "Square",
+        "text": "Square",
+        "fontSize": 12,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#3a3936"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:460",
+        "name": "Rectangular",
+        "text": "Rectangular",
+        "fontSize": 12,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#3a3936"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:462",
+        "name": "D-shape",
+        "text": "D-shape",
+        "fontSize": 12,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#3a3936"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:464",
+        "name": "Curb inlet",
+        "text": "Curb inlet",
+        "fontSize": 12,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#3a3936"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:471",
+        "name": "Valve box",
+        "text": "Valve box",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:476",
+        "name": "Extensions that keep water and gas valves reachable after paving.",
+        "text": "Extensions that keep water and gas valves reachable\nafter paving.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:479",
+        "name": "Water",
+        "text": "Water",
+        "fontSize": 12,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#3a3936"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:481",
+        "name": "Gas",
+        "text": "Gas",
+        "fontSize": 12,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#3a3936"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:484",
+        "name": "02",
+        "text": "02",
+        "fontSize": 20,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:486",
+        "name": "Pick the type",
+        "text": "Pick the type",
+        "fontSize": 28,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:488",
+        "name": "Is the frame in good shape?",
+        "text": "Is the frame in good shape?",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:491",
+        "name": "This step isn't about size. It's about how the riser holds in the frame: a solid ring that sits on the seat, or a steel ring that expands to grip a frame that's worn or out of round.",
+        "text": "This step isn't about size. It's about how the riser holds in the frame: a solid ring that sits on\nthe seat, or a steel ring that expands to grip a frame that's worn or out of round.",
+        "fontSize": 16,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:497",
+        "name": "Lowest cost",
+        "text": "Lowest cost",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:499",
+        "name": "Fixed",
+        "text": "Fixed",
+        "fontSize": 40,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:501",
+        "name": "Solid cast iron ring",
+        "text": "Solid cast iron ring",
+        "fontSize": 16,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:512",
+        "name": "Sits on the frame seat",
+        "text": "Sits on the frame seat",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:514",
+        "name": "One solid piece. No moving parts.",
+        "text": "One solid piece. No moving parts.",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:518",
+        "name": "Rise",
+        "text": "Rise",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:520",
+        "name": "2\" or 3\" · stack for more",
+        "text": "2\" or 3\" · stack for more",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:526",
+        "name": "0\"",
+        "text": "0\"",
+        "fontSize": 11,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:528",
+        "name": "1\"",
+        "text": "1\"",
+        "fontSize": 11,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:530",
+        "name": "2\"",
+        "text": "2\"",
+        "fontSize": 11,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:532",
+        "name": "3\"",
+        "text": "3\"",
+        "fontSize": 11,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:534",
+        "name": "4\"",
+        "text": "4\"",
+        "fontSize": 11,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:536",
+        "name": "5\"",
+        "text": "5\"",
+        "fontSize": 11,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:538",
+        "name": "6\"",
+        "text": "6\"",
+        "fontSize": 11,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:541",
+        "name": "Handles worn frames",
+        "text": "Handles worn frames",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:543",
+        "name": "Low",
+        "text": "Low",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:550",
+        "name": "Cost",
+        "text": "Cost",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:552",
+        "name": "$",
+        "text": "$",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:560",
+        "name": "Best for",
+        "text": "Best for",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:562",
+        "name": "Standard frames in good shape",
+        "text": "Standard frames in good shape",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:564",
+        "name": "Fixed risers",
+        "text": "Fixed risers",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:572",
+        "name": "Most forgiving",
+        "text": "Most forgiving",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:574",
+        "name": "Adjustable",
+        "text": "Adjustable",
+        "fontSize": 40,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:576",
+        "name": "Expanding steel ring",
+        "text": "Expanding steel ring",
+        "fontSize": 16,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:586",
+        "name": "Expands against the frame",
+        "text": "Expands against the frame",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:588",
+        "name": "A steel screw locks it tight. No mortar.",
+        "text": "A steel screw locks it tight. No mortar.",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:592",
+        "name": "Rise",
+        "text": "Rise",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:594",
+        "name": "From 3/4\"",
+        "text": "From 3/4\"",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:599",
+        "name": "0\"",
+        "text": "0\"",
+        "fontSize": 11,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:601",
+        "name": "1\"",
+        "text": "1\"",
+        "fontSize": 11,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:603",
+        "name": "2\"",
+        "text": "2\"",
+        "fontSize": 11,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:605",
+        "name": "3\"",
+        "text": "3\"",
+        "fontSize": 11,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:607",
+        "name": "4\"",
+        "text": "4\"",
+        "fontSize": 11,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:609",
+        "name": "5\"",
+        "text": "5\"",
+        "fontSize": 11,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:611",
+        "name": "6\"",
+        "text": "6\"",
+        "fontSize": 11,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:614",
+        "name": "Handles worn frames",
+        "text": "Handles worn frames",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:616",
+        "name": "High",
+        "text": "High",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:623",
+        "name": "Cost",
+        "text": "Cost",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:625",
+        "name": "$$",
+        "text": "$$",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:633",
+        "name": "Best for",
+        "text": "Best for",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:635",
+        "name": "Old, worn or out-of-round frames, thin overlays",
+        "text": "Old, worn or out-of-round frames, thin overlays",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:637",
+        "name": "Adjustable risers",
+        "text": "Adjustable risers",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:642",
+        "name": "VS",
+        "text": "VS",
+        "fontSize": 20,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:645",
+        "name": "03",
+        "text": "03",
+        "fontSize": 20,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:647",
+        "name": "Send the size",
+        "text": "Send the size",
+        "fontSize": 28,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:649",
+        "name": "We match the part",
+        "text": "We match the part",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:652",
+        "name": "Size comes from the frame itself. Four measurements are enough for us to match a catalog part or make one to fit.",
+        "text": "Size comes from the frame itself. Four measurements are enough for us to match a catalog\npart or make one to fit.",
+        "fontSize": 16,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:655",
+        "name": "Strong → Four measurements, one quote.",
+        "text": "Four measurements, one quote. Not sure which type you need? Send a photo of the frame and your overlay depth too.",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:658",
+        "name": "What to measure",
+        "text": "What to measure",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:663",
+        "name": "Ask an engineer",
+        "text": "Ask an engineer",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "section-6-Section___04_Features__dark____trust": {
+    "id": "1:667",
+    "name": "Section - 04 Features (dark) — trust",
+    "fills": [
+      "#0a0a0a"
+    ],
+    "size": {
+      "w": 1920,
+      "h": 1344
+    },
+    "texts": [
+      {
+        "id": "1:673",
+        "name": "Why our risers hold",
+        "text": "Why our risers hold",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:675",
+        "name": "Zero shifting. Flawless grades. Built to last.",
+        "text": "Zero shifting.\nFlawless grades.\nBuilt to last.",
+        "fontSize": 56,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:677",
+        "name": "A riser has one job: keep the cover flush with the road for as long as the road lasts. Here's how ours do it.",
+        "text": "A riser has one job: keep the cover flush with the road for as\nlong as the road lasts. Here's how ours do it.",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:681",
+        "name": "01",
+        "text": "01",
+        "fontSize": 24,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:683",
+        "name": "Zero shifting",
+        "text": "Zero shifting",
+        "fontSize": 24,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:691",
+        "name": "Strong → Locked to the frame.",
+        "text": "Locked to the frame. Adjustable rings expand against\nthe casting with a steel screw, so there's no mortar to\ncrack and nothing to work loose.",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:698",
+        "name": "Strong → Machined seats.",
+        "text": "Machined seats. The cover sits flat and tight, so it\ndoesn't rock or rattle under traffic.",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:701",
+        "name": "02",
+        "text": "02",
+        "fontSize": 24,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:703",
+        "name": "Flawless grades",
+        "text": "Flawless grades",
+        "fontSize": 24,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:711",
+        "name": "Strong → Rises in 1/4\" steps",
+        "text": "Rises in 1/4\" steps from 3/4\" up, so the cover finishes\nflush with the new surface, not close to it.",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:718",
+        "name": "Strong → Sloped and tapered rings",
+        "text": "Sloped and tapered rings follow the crown on\ncambered roads.",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:721",
+        "name": "03",
+        "text": "03",
+        "fontSize": 24,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:723",
+        "name": "Built to last",
+        "text": "Built to last",
+        "fontSize": 24,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:731",
+        "name": "Strong → Gray iron, ductile iron and A36 steel,",
+        "text": "Gray iron, ductile iron and A36 steel, black-coated or\nhot-dip galvanized against salt and water.",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:738",
+        "name": "Strong → Low profile.",
+        "text": "Low profile. Set flush, so traffic and snowplow blades\nride straight over.",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:743",
+        "name": "Adjustment products",
+        "text": "Adjustment products",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:745",
+        "name": "The parts that keep the promise.",
+        "text": "The parts that keep the promise.",
+        "fontSize": 32,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:748",
+        "name": "Each one exists to stop a cover shifting or sitting off grade.",
+        "text": "Each one exists to stop a cover shifting or sitting off grade.",
+        "fontSize": 16,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:750",
+        "name": "All adjustment products",
+        "text": "All adjustment products",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:759",
+        "name": "Zero shifting",
+        "text": "Zero shifting",
+        "fontSize": 11,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:764",
+        "name": "Expanding steel rings",
+        "text": "Expanding steel rings",
+        "fontSize": 18,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:766",
+        "name": "A steel screw locks the ring inside round frames.",
+        "text": "A steel screw locks the ring inside round\nframes.",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:768",
+        "name": "View",
+        "text": "View",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:776",
+        "name": "Zero shifting",
+        "text": "Zero shifting",
+        "fontSize": 11,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:781",
+        "name": "Screw-adjust risers",
+        "text": "Screw-adjust risers",
+        "fontSize": 18,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:783",
+        "name": "Set screws take up a worn or uneven frame.",
+        "text": "Set screws take up a worn or uneven\nframe.",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:785",
+        "name": "View",
+        "text": "View",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:793",
+        "name": "Flawless grades",
+        "text": "Flawless grades",
+        "fontSize": 11,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:798",
+        "name": "Catch basin riser frames",
+        "text": "Catch basin riser frames",
+        "fontSize": 18,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:800",
+        "name": "Square and rectangular, in 1/4\" rise steps.",
+        "text": "Square and rectangular, in 1/4\" rise\nsteps.",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:802",
+        "name": "View",
+        "text": "View",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:819",
+        "name": "Flawless grades",
+        "text": "Flawless grades",
+        "fontSize": 11,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:823",
+        "name": "Sloped & tapered rings",
+        "text": "Sloped & tapered rings",
+        "fontSize": 18,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:825",
+        "name": "Thicker on one side to follow a road crown. Made to order.",
+        "text": "Thicker on one side to follow a road\ncrown. Made to order.",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:827",
+        "name": "Ask about a slope",
+        "text": "Ask about a slope",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "section-7-Section___05_Our_products__white____the_showdown": {
+    "id": "1:831",
+    "name": "Section - 05 Our products (white) — the showdown",
+    "fills": [
+      "#ffffff"
+    ],
+    "size": {
+      "w": 1920,
+      "h": 1741
+    },
+    "texts": [
+      {
+        "id": "1:837",
+        "name": "Our products",
+        "text": "Our products",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:839",
+        "name": "Every riser the road needs.",
+        "text": "Every riser the\nroad needs.",
+        "fontSize": 48,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:841",
+        "name": "Strong → Manhole, catch basin, valve box and specialty risers",
+        "text": "Manhole, catch basin, valve box and specialty risers, plus the\ngrates, plates and tools that go with them. This is a first look. The\nfull catalog has sizes, drawings and 3D views for every part.",
+        "fontSize": 18,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:848",
+        "name": "Catch basin",
+        "text": "Catch basin",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:852",
+        "name": "Catch basin riser assemblies",
+        "text": "Catch basin riser\nassemblies",
+        "fontSize": 32,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:854",
+        "name": "Square and rectangular risers that stack between the grate and the frame you already have. Made to your grate size, so they drop in and stay put.",
+        "text": "Square and rectangular risers that stack between the grate and\nthe frame you already have. Made to your grate size, so they\ndrop in and stay put.",
+        "fontSize": 16,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:858",
+        "name": "Square",
+        "text": "Square",
+        "fontSize": 12,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:860",
+        "name": "Rectangular",
+        "text": "Rectangular",
+        "fontSize": 12,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:862",
+        "name": "Curb inlet",
+        "text": "Curb inlet",
+        "fontSize": 12,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:864",
+        "name": "Two-grate",
+        "text": "Two-grate",
+        "fontSize": 12,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:867",
+        "name": "View catch basin risers",
+        "text": "View catch basin risers",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:876",
+        "name": "Manhole",
+        "text": "Manhole",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:880",
+        "name": "Mechanical expansion riser",
+        "text": "Mechanical expansion riser",
+        "fontSize": 18,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:882",
+        "name": "Expands inside the frame. No mortar.",
+        "text": "Expands inside the frame. No mortar.",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:885",
+        "name": "View",
+        "text": "View",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:894",
+        "name": "Manhole",
+        "text": "Manhole",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:898",
+        "name": "Solid cast riser",
+        "text": "Solid cast riser",
+        "fontSize": 18,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:900",
+        "name": "One-piece iron ring. Lowest cost.",
+        "text": "One-piece iron ring. Lowest cost.",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:903",
+        "name": "View",
+        "text": "View",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:912",
+        "name": "Storm drain",
+        "text": "Storm drain",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:916",
+        "name": "Two-grate combo riser",
+        "text": "Two-grate combo riser",
+        "fontSize": 18,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:918",
+        "name": "One frame for double inlets.",
+        "text": "One frame for double inlets.",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:921",
+        "name": "View",
+        "text": "View",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:930",
+        "name": "Custom",
+        "text": "Custom",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:934",
+        "name": "Fabricated steel riser",
+        "text": "Fabricated steel riser",
+        "fontSize": 18,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:936",
+        "name": "Welded A36 for odd or old frames.",
+        "text": "Welded A36 for odd or old frames.",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:939",
+        "name": "View",
+        "text": "View",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:948",
+        "name": "Utility",
+        "text": "Utility",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:952",
+        "name": "Gas & valve box riser",
+        "text": "Gas & valve box riser",
+        "fontSize": 18,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:954",
+        "name": "Keeps valves reachable after paving.",
+        "text": "Keeps valves reachable after paving.",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:957",
+        "name": "View",
+        "text": "View",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:966",
+        "name": "Drainage",
+        "text": "Drainage",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:970",
+        "name": "Grates & trash racks",
+        "text": "Grates & trash racks",
+        "fontSize": 18,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:972",
+        "name": "Galvanized steel, cut to size.",
+        "text": "Galvanized steel, cut to size.",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:975",
+        "name": "View",
+        "text": "View",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:984",
+        "name": "ADA",
+        "text": "ADA",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:988",
+        "name": "Detectable warning plates",
+        "text": "Detectable warning plates",
+        "fontSize": 18,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:990",
+        "name": "Cast iron, for curb ramps.",
+        "text": "Cast iron, for curb ramps.",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:993",
+        "name": "View",
+        "text": "View",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1002",
+        "name": "On site",
+        "text": "On site",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1006",
+        "name": "Tools & accessories",
+        "text": "Tools & accessories",
+        "fontSize": 18,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1008",
+        "name": "Lid lifters, hooks, valve keys.",
+        "text": "Lid lifters, hooks, valve keys.",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1011",
+        "name": "View",
+        "text": "View",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1018",
+        "name": "192 parts. Every size, drawing and 3D view.",
+        "text": "192 parts. Every size, drawing and\n3D view.",
+        "fontSize": 28,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1020",
+        "name": "See every product in detail, spin it in 3D, check the dimensions and download the CAD file. Or take the whole catalog with you.",
+        "text": "See every product in detail, spin it in 3D, check the dimensions and download the\nCAD file. Or take the whole catalog with you.",
+        "fontSize": 16,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1023",
+        "name": "See All Products",
+        "text": "See All Products",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1031",
+        "name": "Catalog (PDF)",
+        "text": "Catalog (PDF)",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "section-8-Section___06_World_of_risers__warm_": {
+    "id": "1:1032",
+    "name": "Section - 06 World of risers (warm)",
+    "fills": [
+      "#f4f2ee"
+    ],
+    "size": {
+      "w": 1920,
+      "h": 968
+    },
+    "texts": [
+      {
+        "id": "1:1038",
+        "name": "World of risers",
+        "text": "World of risers",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1040",
+        "name": "Where risers go to work.",
+        "text": "Where risers\ngo to work.",
+        "fontSize": 48,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1043",
+        "name": "Highways, airport aprons, city streets and storm drains. Wherever a surface gets renewed, the castings in it have to come up to meet it.",
+        "text": "Highways, airport aprons, city streets and storm drains. Wherever\na surface gets renewed, the castings in it have to come up to\nmeet it.",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1045",
+        "name": "Open the gallery",
+        "text": "Open the gallery",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1054",
+        "name": "Highway resurfacing",
+        "text": "Highway resurfacing",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1056",
+        "name": "Every cover on the job brought up in one pass",
+        "text": "Every cover on the job brought up in one pass",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#e5e5e5"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1061",
+        "name": "Airports & ports",
+        "text": "Airports & ports",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1063",
+        "name": "Heavy-duty castings for aprons and yards",
+        "text": "Heavy-duty castings for aprons and yards",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#e5e5e5"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1068",
+        "name": "City streets",
+        "text": "City streets",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1070",
+        "name": "Sewer and utility manholes",
+        "text": "Sewer and utility manholes",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#e5e5e5"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1076",
+        "name": "Storm drainage",
+        "text": "Storm drainage",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1078",
+        "name": "Catch basins and curb inlets",
+        "text": "Catch basins and curb inlets",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#e5e5e5"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "section-9-Section___07_Made_in_our_foundry__dark____proof": {
+    "id": "1:1079",
+    "name": "Section - 07 Made in our foundry (dark) — proof",
+    "fills": [
+      "#0a0a0a"
+    ],
+    "size": {
+      "w": 1920,
+      "h": 1126
+    },
+    "texts": [
+      {
+        "id": "1:1085",
+        "name": "Made in our foundry",
+        "text": "Made in our foundry",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1087",
+        "name": "Watch your risers being built.",
+        "text": "Watch your\nrisers being built.",
+        "fontSize": 48,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1090",
+        "name": "From raw plate and molten iron to a finished, coated riser on a pallet. Every step happens in our own plant, which is why we can promise sizes and dates.",
+        "text": "From raw plate and molten iron to a finished, coated riser on a\npallet. Every step happens in our own plant, which is why we can\npromise sizes and dates.",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1092",
+        "name": "Manufacturing & quality",
+        "text": "Manufacturing & quality",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1107",
+        "name": "From steel plate to finished riser",
+        "text": "From steel plate to finished riser",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1109",
+        "name": "1 min · cutting, forming, welding, coating, inspection",
+        "text": "1 min · cutting, forming, welding, coating, inspection",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1114",
+        "name": "Laser cut",
+        "text": "Laser cut",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1118",
+        "name": "Coated & cured",
+        "text": "Coated & cured",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1122",
+        "name": "Inspected",
+        "text": "Inspected",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1126",
+        "name": "01",
+        "text": "01",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1128",
+        "name": "Cast or cut",
+        "text": "Cast or cut",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1130",
+        "name": "Gray and ductile iron poured in sand molds. Steel blanks laser-cut from plate.",
+        "text": "Gray and ductile iron poured in sand molds.\nSteel blanks laser-cut from plate.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1133",
+        "name": "02",
+        "text": "02",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1135",
+        "name": "Form & weld",
+        "text": "Form & weld",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1137",
+        "name": "Rings rolled and pressed to size, then welded in robotic cells.",
+        "text": "Rings rolled and pressed to size, then\nwelded in robotic cells.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1140",
+        "name": "03",
+        "text": "03",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1142",
+        "name": "Machine & coat",
+        "text": "Machine & coat",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1144",
+        "name": "Seats machined flat. Black coating or hot- dip galvanizing, oven-cured.",
+        "text": "Seats machined flat. Black coating or hot-\ndip galvanizing, oven-cured.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1147",
+        "name": "04",
+        "text": "04",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1149",
+        "name": "Inspect & ship",
+        "text": "Inspect & ship",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1151",
+        "name": "Every size checked against its drawing, labeled, palletized and shipped.",
+        "text": "Every size checked against its drawing,\nlabeled, palletized and shipped.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "section-10-Section___08_Standards___certifications__white_": {
+    "id": "1:1152",
+    "name": "Section - 08 Standards & certifications (white)",
+    "fills": [
+      "#ffffff"
+    ],
+    "size": {
+      "w": 1920,
+      "h": 490
+    },
+    "texts": [
+      {
+        "id": "1:1157",
+        "name": "Standards & certifications",
+        "text": "Standards & certifications",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1159",
+        "name": "Made to the specs on your drawings.",
+        "text": "Made to the\nspecs on\nyour drawings.",
+        "fontSize": 40,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1161",
+        "name": "Material certificates come with every order. Test reports are ready for your submittal.",
+        "text": "Material certificates come with every order. Test\nreports are ready for your submittal.",
+        "fontSize": 16,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1163",
+        "name": "Certificates & test reports",
+        "text": "Certificates & test reports",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1170",
+        "name": "ASTM",
+        "text": "ASTM",
+        "fontSize": 11,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1173",
+        "name": "A48",
+        "text": "A48",
+        "fontSize": 32,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1175",
+        "name": "Gray iron, Class 35B",
+        "text": "Gray iron, Class 35B",
+        "fontSize": 13,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1178",
+        "name": "ASTM",
+        "text": "ASTM",
+        "fontSize": 11,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1181",
+        "name": "A536",
+        "text": "A536",
+        "fontSize": 32,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1183",
+        "name": "Ductile iron",
+        "text": "Ductile iron",
+        "fontSize": 13,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1186",
+        "name": "ASTM",
+        "text": "ASTM",
+        "fontSize": 11,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1189",
+        "name": "A36",
+        "text": "A36",
+        "fontSize": 32,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1191",
+        "name": "Structural steel",
+        "text": "Structural steel",
+        "fontSize": 13,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1194",
+        "name": "AASHTO",
+        "text": "AASHTO",
+        "fontSize": 11,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1197",
+        "name": "H-20",
+        "text": "H-20",
+        "fontSize": 32,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1199",
+        "name": "Highway traffic loading",
+        "text": "Highway traffic\nloading",
+        "fontSize": 13,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1202",
+        "name": "ADA",
+        "text": "ADA",
+        "fontSize": 11,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1205",
+        "name": "705",
+        "text": "705",
+        "fontSize": 32,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1207",
+        "name": "Detectable warning plates",
+        "text": "Detectable warning\nplates",
+        "fontSize": 13,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "section-11-Section___11_Projects___testimonials__warm_": {
+    "id": "1:1208",
+    "name": "Section - 11 Projects & testimonials (warm)",
+    "fills": [
+      "#f4f2ee"
+    ],
+    "size": {
+      "w": 1920,
+      "h": 1180
+    },
+    "texts": [
+      {
+        "id": "1:1214",
+        "name": "Projects & testimonials",
+        "text": "Projects & testimonials",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1216",
+        "name": "Proven on real roads.",
+        "text": "Proven on\nreal roads.",
+        "fontSize": 48,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1219",
+        "name": "Real jobs and real customers, shared with their permission.",
+        "text": "Real jobs and real customers, shared with their permission.",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1221",
+        "name": "All projects",
+        "text": "All projects",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1233",
+        "name": "Job photo",
+        "text": "Job photo",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#8a8985"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1237",
+        "name": "[City, State]",
+        "text": "[City, State]",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1240",
+        "name": "[Number]",
+        "text": "[Number]",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1241",
+        "name": "manholes raised in one",
+        "text": "manholes raised in one",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1242",
+        "name": "overlay",
+        "text": "overlay",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1245",
+        "name": "Problem",
+        "text": "Problem",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1248",
+        "name": "[Length]",
+        "text": "[Length]",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1249",
+        "name": "mill-and-fill, every cover left low",
+        "text": "mill-and-fill, every cover left low",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1251",
+        "name": "Product",
+        "text": "Product",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1253",
+        "name": "Adjustable manhole risers",
+        "text": "Adjustable manhole risers",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1255",
+        "name": "Result",
+        "text": "Result",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1258",
+        "name": "[Lane reopened the same day]",
+        "text": "[Lane reopened the same day]",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1266",
+        "name": "Job photo",
+        "text": "Job photo",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#8a8985"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1270",
+        "name": "[City, State]",
+        "text": "[City, State]",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1273",
+        "name": "[Number]",
+        "text": "[Number]",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1274",
+        "name": "catch basins raised without",
+        "text": "catch basins raised without",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1275",
+        "name": "rebuilding",
+        "text": "rebuilding",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1278",
+        "name": "Problem",
+        "text": "Problem",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1280",
+        "name": "Non-standard frames on a tight schedule",
+        "text": "Non-standard frames on a tight schedule",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1282",
+        "name": "Product",
+        "text": "Product",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1284",
+        "name": "Fabricated steel risers",
+        "text": "Fabricated steel risers",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1286",
+        "name": "Result",
+        "text": "Result",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1289",
+        "name": "[Result]",
+        "text": "[Result]",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1297",
+        "name": "Job photo",
+        "text": "Job photo",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#8a8985"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1301",
+        "name": "[Utility or agency]",
+        "text": "[Utility or agency]",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1304",
+        "name": "[Number]",
+        "text": "[Number]",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1305",
+        "name": "valve boxes kept reachable",
+        "text": "valve boxes kept reachable",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1308",
+        "name": "Problem",
+        "text": "Problem",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1310",
+        "name": "Valves buried under new asphalt",
+        "text": "Valves buried under new asphalt",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1312",
+        "name": "Product",
+        "text": "Product",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1314",
+        "name": "Valve box risers",
+        "text": "Valve box risers",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1316",
+        "name": "Result",
+        "text": "Result",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1319",
+        "name": "[Result]",
+        "text": "[Result]",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1322",
+        "name": "“",
+        "text": "“",
+        "fontSize": 96,
+        "fontName": "Georgia Regular",
+        "fills": [
+          "#e1201f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1327",
+        "name": "[Quote from a paving contractor: a job where the risers fit and the crew kept",
+        "text": "[Quote from a paving contractor: a job where the risers fit and the crew kept",
+        "fontSize": 22,
+        "fontName": "Inter Medium",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1328",
+        "name": "paving.]",
+        "text": "paving.]",
+        "fontSize": 22,
+        "fontName": "Inter Medium",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1331",
+        "name": "[Name]",
+        "text": "[Name]",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1332",
+        "name": "· ",
+        "text": "·",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1334",
+        "name": "[Title, Company, City]",
+        "text": "[Title, Company, City]",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "section-12-Section___12_Services___solutions__white_": {
+    "id": "1:1344",
+    "name": "Section - 12 Services & solutions (white)",
+    "fills": [
+      "#ffffff"
+    ],
+    "size": {
+      "w": 1920,
+      "h": 654
+    },
+    "texts": [
+      {
+        "id": "1:1350",
+        "name": "Services & solutions",
+        "text": "Services & solutions",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1352",
+        "name": "More than a parts counter.",
+        "text": "More than a\nparts counter.",
+        "fontSize": 48,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1355",
+        "name": "The work around the part: getting the size right, getting it approved, and getting it to the job on time.",
+        "text": "The work around the part: getting the size right, getting it\napproved, and getting it to the job on time.",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1357",
+        "name": "All services",
+        "text": "All services",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1368",
+        "name": "Custom fabrication",
+        "text": "Custom fabrication",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1370",
+        "name": "Send a drawing or field sizes and we'll make a riser, grate or frame to match. One piece or a full project.",
+        "text": "Send a drawing or field sizes and\nwe'll make a riser, grate or frame to\nmatch. One piece or a full project.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1377",
+        "name": "Engineering help",
+        "text": "Engineering help",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1379",
+        "name": "We check your measurements, recommend fixed or adjustable, and catch problems before anything is made.",
+        "text": "We check your measurements,\nrecommend fixed or adjustable, and\ncatch problems before anything is\nmade.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1387",
+        "name": "Submittal packages",
+        "text": "Submittal packages",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1389",
+        "name": "Spec sheets, drawings and material certificates, put together for your bid or agency review.",
+        "text": "Spec sheets, drawings and material\ncertificates, put together for your bid\nor agency review.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1398",
+        "name": "Jobsite delivery",
+        "text": "Jobsite delivery",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1400",
+        "name": "Palletized freight to your yard or straight to the job, or will-call pickup in Melville and Stuart.",
+        "text": "Palletized freight to your yard or\nstraight to the job, or will-call pickup\nin Melville and Stuart.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "section-13-Section___10_What_we_need_from_you__dark____removes_friction": {
+    "id": "1:1401",
+    "name": "Section - 10 What we need from you (dark) — removes friction",
+    "fills": [
+      "#0a0a0a"
+    ],
+    "size": {
+      "w": 1920,
+      "h": 1061
+    },
+    "texts": [
+      {
+        "id": "1:1406",
+        "name": "What we need from you",
+        "text": "What we need from you",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1408",
+        "name": "Four measurements. One accurate quote.",
+        "text": "Four\nmeasurements. One\naccurate quote.",
+        "fontSize": 48,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1412",
+        "name": "A",
+        "text": "A",
+        "fontSize": 14,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1415",
+        "name": "Cover diameter",
+        "text": "Cover diameter",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1417",
+        "name": "Measure straight across the top of the cover.",
+        "text": "Measure straight across the top of the cover.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1420",
+        "name": "B",
+        "text": "B",
+        "fontSize": 14,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1423",
+        "name": "Cover thickness",
+        "text": "Cover thickness",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1425",
+        "name": "Measure the edge of the cover where it sits in the frame.",
+        "text": "Measure the edge of the cover where it sits in the frame.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1428",
+        "name": "C",
+        "text": "C",
+        "fontSize": 14,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1431",
+        "name": "Inside clear opening",
+        "text": "Inside clear opening",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1433",
+        "name": "Measure the open space inside the frame, below the seat.",
+        "text": "Measure the open space inside the frame, below the seat.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1436",
+        "name": "D",
+        "text": "D",
+        "fontSize": 14,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1439",
+        "name": "Height to raise",
+        "text": "Height to raise",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1441",
+        "name": "How far the cover has to come up to meet the new surface.",
+        "text": "How far the cover has to come up to meet the new surface.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1443",
+        "name": "Strong → Ordering something other than a manhole riser?",
+        "text": "Ordering something other than a manhole riser? Catch basin and valve box risers,\ngrates, plates and custom parts all work the same way: send the size of what's in\nthe road, its thickness, the clear opening and the rise you need. A photo of the\nmaker's name cast on the frame helps too.",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1449",
+        "name": "Measuring sheet (PDF)",
+        "text": "Measuring sheet (PDF)",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1451",
+        "name": "Send your measurements",
+        "text": "Send your measurements",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1458",
+        "name": "Section through a manhole frame",
+        "text": "Section through a manhole frame",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1460",
+        "name": "Not to scale",
+        "text": "Not to scale",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1472",
+        "name": "NEW SURFACE",
+        "text": "NEW SURFACE",
+        "fontSize": 11.314142227172852,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1476",
+        "name": "A",
+        "text": "A",
+        "fontSize": 13.371258735656738,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1480",
+        "name": "B",
+        "text": "B",
+        "fontSize": 13.371258735656738,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1484",
+        "name": "C",
+        "text": "C",
+        "fontSize": 13.371258735656738,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1487",
+        "name": "D",
+        "text": "D",
+        "fontSize": 13.371258735656738,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1488",
+        "name": "EXISTING FRAME STAYS IN PLACE",
+        "text": "EXISTING FRAME STAYS IN PLACE",
+        "fontSize": 11.314142227172852,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "section-14-Section___11_Resources__white_": {
+    "id": "1:1489",
+    "name": "Section - 11 Resources (white)",
+    "fills": [
+      "#ffffff"
+    ],
+    "size": {
+      "w": 1920,
+      "h": 1252
+    },
+    "texts": [
+      {
+        "id": "1:1495",
+        "name": "Resources",
+        "text": "Resources",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1497",
+        "name": "Size it. Spec it. Install it.",
+        "text": "Size it. Spec\nit. Install it.",
+        "fontSize": 48,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1500",
+        "name": "Everything you need to choose and fit a riser. Free to download, no sign-up.",
+        "text": "Everything you need to choose and fit a riser. Free to download,\nno sign-up.",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1502",
+        "name": "All resources",
+        "text": "All resources",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1512",
+        "name": "PDF · DWG",
+        "text": "PDF · DWG",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1516",
+        "name": "Catalog & CAD files",
+        "text": "Catalog & CAD files",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1518",
+        "name": "Spec sheets and drawings for all 192 parts.",
+        "text": "Spec sheets and drawings for all 192\nparts.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1521",
+        "name": "Download",
+        "text": "Download",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1530",
+        "name": "Video",
+        "text": "Video",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1534",
+        "name": "Installation guides",
+        "text": "Installation guides",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1536",
+        "name": "Short videos and printable steps for each riser.",
+        "text": "Short videos and printable steps for\neach riser.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1539",
+        "name": "Watch",
+        "text": "Watch",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1548",
+        "name": "Tool",
+        "text": "Tool",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1552",
+        "name": "Riser height calculator",
+        "text": "Riser height calculator",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1554",
+        "name": "Work out the rise from milling and overlay depth.",
+        "text": "Work out the rise from milling and\noverlay depth.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1557",
+        "name": "Calculate",
+        "text": "Calculate",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1565",
+        "name": "?",
+        "text": "?",
+        "fontSize": 96,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1567",
+        "name": "FAQ",
+        "text": "FAQ",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1571",
+        "name": "Questions & answers",
+        "text": "Questions & answers",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1573",
+        "name": "Stacking, sizing, lead times and more.",
+        "text": "Stacking, sizing, lead times and\nmore.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1576",
+        "name": "Read",
+        "text": "Read",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1583",
+        "name": "Latest from the blog",
+        "text": "Latest from the blog",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1587",
+        "name": "Guide",
+        "text": "Guide",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1589",
+        "name": "Adjustable manhole risers: a practical guide",
+        "text": "Adjustable manhole risers: a practical guide",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1595",
+        "name": "Materials",
+        "text": "Materials",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1597",
+        "name": "Steel or cast iron catch basin risers?",
+        "text": "Steel or cast iron catch basin risers?",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1603",
+        "name": "Maintenance",
+        "text": "Maintenance",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1605",
+        "name": "How to stop manhole covers rattling",
+        "text": "How to stop manhole covers rattling",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1610",
+        "name": "All articles",
+        "text": "All articles",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1616",
+        "name": "Common questions",
+        "text": "Common questions",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1619",
+        "name": "Do I have to remove the frame to install a riser?",
+        "text": "Do I have to remove the frame to install a riser?",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1624",
+        "name": "No. The riser sits on the seat of the existing frame and the cover goes back on top at the new height. No excavation and no new concrete.",
+        "text": "No. The riser sits on the seat of the existing frame and the cover goes back on top\nat the new height. No excavation and no new concrete.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1627",
+        "name": "How do I know what size riser to order?",
+        "text": "How do I know what size riser to order?",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1633",
+        "name": "Can risers be stacked?",
+        "text": "Can risers be stacked?",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1639",
+        "name": "Do you make sizes that aren't in the catalog?",
+        "text": "Do you make sizes that aren't in the catalog?",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1645",
+        "name": "How fast can you ship?",
+        "text": "How fast can you ship?",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1650",
+        "name": "All questions",
+        "text": "All questions",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "section-15-Section___12_Offices___locations__warm_": {
+    "id": "1:1654",
+    "name": "Section - 12 Offices & locations (warm)",
+    "fills": [
+      "#f4f2ee"
+    ],
+    "size": {
+      "w": 1920,
+      "h": 1064
+    },
+    "texts": [
+      {
+        "id": "1:1660",
+        "name": "Offices & locations",
+        "text": "Offices & locations",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c41c1b"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1662",
+        "name": "Close to your job.",
+        "text": "Close to your job.",
+        "fontSize": 48,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1664",
+        "name": "Three offices, one sales desk. We ship palletized freight across the US and Canada, with will-call pickup in Melville and Stuart on 24 hours' notice.",
+        "text": "Three offices, one sales desk. We ship palletized freight across\nthe US and Canada, with will-call pickup in Melville and Stuart on\n24 hours' notice.",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1669",
+        "name": "Melville, New York",
+        "text": "Melville, New York",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1671",
+        "name": "NY",
+        "text": "NY",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1680",
+        "name": "105 Maxess Road, Melville, NY 11747",
+        "text": "105 Maxess Road, Melville, NY 11747",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1687",
+        "name": "(631) 458-1111",
+        "text": "(631) 458-1111",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1695",
+        "name": "Mon–Fri, 7 AM–5 PM ET · Will-call pickup",
+        "text": "Mon–Fri, 7 AM–5 PM ET · Will-call pickup",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1698",
+        "name": "Get directions",
+        "text": "Get directions",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1704",
+        "name": "Stuart, Florida",
+        "text": "Stuart, Florida",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1706",
+        "name": "FL",
+        "text": "FL",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1715",
+        "name": "850 NW Federal Highway, Stuart, FL 34994",
+        "text": "850 NW Federal Highway, Stuart, FL 34994",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1722",
+        "name": "(772) 297-0700",
+        "text": "(772) 297-0700",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1730",
+        "name": "Mon–Fri, 7 AM–5 PM ET · Will-call pickup",
+        "text": "Mon–Fri, 7 AM–5 PM ET · Will-call pickup",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1733",
+        "name": "Get directions",
+        "text": "Get directions",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1739",
+        "name": "Toronto, Ontario",
+        "text": "Toronto, Ontario",
+        "fontSize": 20,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1741",
+        "name": "ON",
+        "text": "ON",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1750",
+        "name": "1 Yonge Street, Toronto, ON M5E 1R4",
+        "text": "1 Yonge Street, Toronto, ON M5E 1R4",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1757",
+        "name": "(438) 805-9990",
+        "text": "(438) 805-9990",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1765",
+        "name": "Mon–Fri, 7 AM–5 PM ET · Sales office",
+        "text": "Mon–Fri, 7 AM–5 PM ET · Sales office",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#57544f"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1768",
+        "name": "Get directions",
+        "text": "Get directions",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1779",
+        "name": "Toronto, ON",
+        "text": "Toronto, ON",
+        "fontSize": 14.972221374511719,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1785",
+        "name": "Melville, NY",
+        "text": "Melville, NY",
+        "fontSize": 14.972221374511719,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1791",
+        "name": "Stuart, FL",
+        "text": "Stuart, FL",
+        "fontSize": 14.972221374511719,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "section-16-Section___13_Let_s_build_together__red____the_one_CTA": {
+    "id": "1:1792",
+    "name": "Section - 13 Let's build together (red) — the one CTA",
+    "fills": [
+      "#0a0a0a"
+    ],
+    "size": {
+      "w": 1920,
+      "h": 1127
+    },
+    "texts": [
+      {
+        "id": "1:1798",
+        "name": "Let's build together",
+        "text": "Let's build together",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#f04442"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1800",
+        "name": "Send the frame size. We'll handle the rest.",
+        "text": "Send the frame\nsize. We'll\nhandle the rest.",
+        "fontSize": 48,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1802",
+        "name": "Price, lead time and a spec sheet, back within",
+        "text": "Price, lead time and a spec sheet, back within",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1804",
+        "name": "[one business day]",
+        "text": "[one business day]",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1805",
+        "name": ". Buying",
+        "text": ". Buying",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1806",
+        "name": "for a season or a whole city? Ask for bulk pricing and we'll set up contractor rates.",
+        "text": "for a season or a whole city? Ask for bulk pricing and we'll set up\ncontractor rates.",
+        "fontSize": 18,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1815",
+        "name": "Call the Pro Desk",
+        "text": "Call the Pro Desk",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1816",
+        "name": "(631) 458-1111",
+        "text": "(631) 458-1111",
+        "fontSize": 18,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1824",
+        "name": "WhatsApp a site photo",
+        "text": "WhatsApp a site photo",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1825",
+        "name": "+1 516 252 1111",
+        "text": "+1 516 252 1111",
+        "fontSize": 18,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1834",
+        "name": "Email drawings",
+        "text": "Email drawings",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1835",
+        "name": "sales@pavingrisers.com",
+        "text": "sales@pavingrisers.com",
+        "fontSize": 18,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1842",
+        "name": "STEP 01",
+        "text": "STEP 01",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1843",
+        "name": "We check your measurements",
+        "text": "We check your\nmeasurements",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1850",
+        "name": "STEP 02",
+        "text": "STEP 02",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1851",
+        "name": "You get price and lead time",
+        "text": "You get price and lead\ntime",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1859",
+        "name": "STEP 03",
+        "text": "STEP 03",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1860",
+        "name": "We ship to your yard or job",
+        "text": "We ship to your yard or\njob",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1866",
+        "name": "Quote a job",
+        "text": "Quote a job",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1867",
+        "name": "Small → One project or structure list",
+        "text": "One project or structure list",
+        "fontSize": 13,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#c4c4c4"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1869",
+        "name": "Bulk pricing",
+        "text": "Bulk pricing",
+        "fontSize": 15,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1870",
+        "name": "Small → Contractors & municipalities",
+        "text": "Contractors & municipalities",
+        "fontSize": 13,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1872",
+        "name": "Takes about 2 minutes. Fields marked optional can be skipped.",
+        "text": "Takes about 2 minutes. Fields marked optional can be skipped.",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1875",
+        "name": "Full name",
+        "text": "Full name",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1879",
+        "name": "Company or agency",
+        "text": "Company or agency",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1883",
+        "name": "Work email",
+        "text": "Work email",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1887",
+        "name": "Phone (optional)",
+        "text": "Phone (optional)",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1891",
+        "name": "Product",
+        "text": "Product",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1897",
+        "name": "Choose a product",
+        "text": "Choose a product",
+        "fontSize": 16,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1900",
+        "name": "Frame size, quantity and rise",
+        "text": "Frame size, quantity and rise",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1903",
+        "name": "e.g. 40 manholes, 24\" frames, 2\" rise, paving on May 12",
+        "text": "e.g. 40 manholes, 24\" frames, 2\" rise, paving on May 12",
+        "fontSize": 16,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#757575"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1909",
+        "name": "Attach drawings or photos (optional) PDF, JPG, DWG or a structure list, up to 20 MB",
+        "text": "Attach drawings or photos (optional)\nPDF, JPG, DWG or a structure list, up to 20 MB",
+        "fontSize": 14,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#0a0a0a"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1912",
+        "name": "Get My Quote",
+        "text": "Get My Quote",
+        "fontSize": 16,
+        "fontName": "Inter Semi Bold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1917",
+        "name": "We only use your details to reply to this request. Privacy policy",
+        "text": "We only use your details to reply to this request. Privacy policy",
+        "fontSize": 13,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#5c5b57"
+        ],
+        "strokes": []
+      }
+    ]
+  },
+  "footer": {
+    "name": "Footer",
+    "texts": [
+      {
+        "id": "1:1924",
+        "name": "Paving your way for any situation.",
+        "text": "Paving your way for\nany situation.",
+        "fontSize": 24,
+        "fontName": "Archivo ExtraBold",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1926",
+        "name": "Manhole, catch basin and valve box risers, cast and fabricated for contractors, cities and utilities across the US and Canada.",
+        "text": "Manhole, catch basin and valve box risers, cast\nand fabricated for contractors, cities and\nutilities across the US and Canada.",
+        "fontSize": 14,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1940",
+        "name": "Products",
+        "text": "Products",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1943",
+        "name": "Link → Manhole Risers",
+        "text": "Manhole Risers",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1945",
+        "name": "Link → Catch Basin Risers",
+        "text": "Catch Basin Risers",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1947",
+        "name": "Link → Valve Box & Gas Risers",
+        "text": "Valve Box & Gas Risers",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1949",
+        "name": "Link → Grates, Plates & Racks",
+        "text": "Grates, Plates & Racks",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1951",
+        "name": "Link → Specialty & Fabricated",
+        "text": "Specialty & Fabricated",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1953",
+        "name": "Link → Tools & Accessories",
+        "text": "Tools & Accessories",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1956",
+        "name": "Applications",
+        "text": "Applications",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1959",
+        "name": "Link → Road Resurfacing",
+        "text": "Road Resurfacing",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1961",
+        "name": "Link → Storm Drainage",
+        "text": "Storm Drainage",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1963",
+        "name": "Link → Sanitary Sewer",
+        "text": "Sanitary Sewer",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1965",
+        "name": "Link → Water & Gas Utilities",
+        "text": "Water & Gas Utilities",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1967",
+        "name": "Link → Airports & Ports",
+        "text": "Airports & Ports",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1970",
+        "name": "Resources",
+        "text": "Resources",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1973",
+        "name": "Link → Catalog & CAD",
+        "text": "Catalog & CAD",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1975",
+        "name": "Link → How to Measure",
+        "text": "How to Measure",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1977",
+        "name": "Link → Installation",
+        "text": "Installation",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1979",
+        "name": "Link → Riser Calculator",
+        "text": "Riser Calculator",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1981",
+        "name": "Link → FAQ",
+        "text": "FAQ",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1983",
+        "name": "Link → Blog",
+        "text": "Blog",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1986",
+        "name": "Company",
+        "text": "Company",
+        "fontSize": 12,
+        "fontName": "Inter Bold",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1989",
+        "name": "Link → About",
+        "text": "About",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1991",
+        "name": "Link → Manufacturing",
+        "text": "Manufacturing",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1993",
+        "name": "Link → Standards & Certifications",
+        "text": "Standards & Certifications",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1995",
+        "name": "Link → Services",
+        "text": "Services",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1997",
+        "name": "Link → Locations",
+        "text": "Locations",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:1999",
+        "name": "Link → Contact",
+        "text": "Contact",
+        "fontSize": 15,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#ffffff"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:2002",
+        "name": "© 2026 Paving Risers Company. All rights reserved.",
+        "text": "© 2026 Paving Risers Company. All rights reserved.",
+        "fontSize": 13,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:2005",
+        "name": "Privacy",
+        "text": "Privacy",
+        "fontSize": 13,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:2007",
+        "name": "Terms",
+        "text": "Terms",
+        "fontSize": 13,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      },
+      {
+        "id": "1:2009",
+        "name": "Sitemap",
+        "text": "Sitemap",
+        "fontSize": 13,
+        "fontName": "Inter Regular",
+        "fills": [
+          "#9c9c9c"
+        ],
+        "strokes": []
+      }
+    ]
+  }
+}
